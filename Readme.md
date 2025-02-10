@@ -2,4 +2,6 @@
 
 Tool pre študentov na FEI TUKE, ktorý vie, aký je práve týždeň semestra.
 
-Live stránka je na [tejto adrese.](https://lubomirdruga.github.io/jaky-je-boha-tyzden/)
+Toto je iba fork tohto repo pretože sa o to asi prestal starať : https://github.com/lubomirdruga/jaky-je-boha-tyzden
+
+Stranka hostovana na : [tejto adrese.](https://corruptedxddd.github.io/jaky-je-boha-tyzden/)
